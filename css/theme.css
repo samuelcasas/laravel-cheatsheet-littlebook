@@ -2,7 +2,7 @@
 
 body {
 	font-family: 'Lato', sans-serif;
-	font-size: 16px;
+	font-size: 10px;
 	line-height: 1.5em;
 	color: rgba(0,0,0,0.87);
 }
@@ -36,12 +36,6 @@ code {
 
 .little-book > section:after {
 	color: #90a4ae;
-}
-
-.little-book > :first-child h1 {
-	text-align: center;
-	font-size: 4em;
-	line-height: 0.9em;
 }
 
 .little-book .photo h1,
